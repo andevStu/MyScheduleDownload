@@ -7,11 +7,6 @@ Windows 10/11용 개인 스케줄러입니다. 파란 플로팅 아이콘에서 
 https://andevstu.github.io/MyScheduleDownload/index.html
 
 ## 바로 실행
-
-GitHub에서 소스를 내려받은 경우 실행 파일과 개발 도구는 아직 없습니다. 먼저 `scripts\setup.cmd`, 이어 `scripts\run.cmd`를 실행하세요. 아래의 바로 실행 안내는 배포 파일을 받았거나 직접 패키징한 경우에 해당합니다.
-
-프로젝트 폴더의 **`Start MySchedule.cmd`** 를 더블클릭하거나 **`dist\MySchedule\MySchedule.exe`** 를 실행하세요. Java가 포함되어 있어 별도 설치가 필요 없습니다. 실행 폴더 안의 `app`, `runtime` 폴더도 함께 있어야 합니다.
-
 설치해서 사용하려면 **`dist\MySchedule-1.0.0.exe`** 를 실행하세요. 현재 Windows 사용자에게 설치하고 시작 메뉴와 바탕화면 바로 가기를 만듭니다. MSI 형식도 제공합니다. 다른 PC로 옮길 때는 `MySchedule-1.0.0-portable.zip` 전체를 풀어서 사용하세요.
 
 첫 실행에는 빈 캘린더가 나옵니다. 테스트 일정은 실제 데이터에 넣지 않았습니다.
