@@ -2,10 +2,6 @@
 
 Windows 10/11용 개인 스케줄러입니다. 파란 플로팅 아이콘에서 오늘의 일정을 열고, 캘린더·알림·메뉴 추천·숫자 맞추기를 사용할 수 있습니다. 인터넷 연결이나 계정이 필요 없으며 모든 데이터는 내 PC에 저장됩니다.
 
-## Download Link
-
-https://andevstu.github.io/MyScheduleDownload/index.html
-
 ## 바로 실행
 설치해서 사용하려면 **`dist\MySchedule-1.0.0.exe`** 를 실행하세요. 현재 Windows 사용자에게 설치하고 시작 메뉴와 바탕화면 바로 가기를 만듭니다. MSI 형식도 제공합니다. 다른 PC로 옮길 때는 `MySchedule-1.0.0-portable.zip` 전체를 풀어서 사용하세요.
 
